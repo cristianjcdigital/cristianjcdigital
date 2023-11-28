@@ -10,7 +10,7 @@
 ![GitHub Followers](https://img.shields.io/github/stars/cristianjcdigital?style=social)
 
 En 2020 el mundo cambió y mi vida personal y profesional también. Me adentré en el mundo online de manera distinta a como lo conocía hasta aquel entonces. Comencé a formare en SEO para sitios web propios con Wordpress.<br>
-En el 2021 mi [**Jessica**](https://jcdigital.es/conocenos/) y yo emprendimos en internet para crear nuestra agencia de **Marketing Digital**.
+En el 2021 [**Jessica**](https://jcdigital.es/conocenos/) y yo emprendimos en internet para crear nuestra agencia de **Marketing Digital**.
 
 [**La programación**](https://programacion/) la descubro en el verano del 2022 dónde me inicio de manera autodidacta en la creación de mis primeros scripts con Python. Las ganas de aprender no cesaron y por ello seguí formandome hasta la acutalidad y elgiendo un camino
 más concreto como es el **Desarrollo WEB** y sus lengujaes HTML,CSS3,JS,PHP. Actualmente no dejo de aprender nuevas tecnologías. Deseo devolverle a la comunidad DEV todo lo que yo he aprendido gracias
